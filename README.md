@@ -1,1 +1,2 @@
-# Class-21-Bounce
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
